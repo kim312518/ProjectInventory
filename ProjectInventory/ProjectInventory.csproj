@@ -51,52 +51,92 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Corr Jeff Inventory Manager.cs">
+    <Compile Include="Forms\Category.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Corr Jeff Inventory Manager.Designer.cs">
-      <DependentUpon>Corr Jeff Inventory Manager.cs</DependentUpon>
+    <Compile Include="Forms\Category.Designer.cs">
+      <DependentUpon>Category.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="Forms\Costumers.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
+    <Compile Include="Forms\Costumers.Designer.cs">
+      <DependentUpon>Costumers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Home.cs">
+    <Compile Include="Forms\Home.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Home.Designer.cs">
+    <Compile Include="Forms\Home.Designer.cs">
       <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Ongoing Products.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Ongoing Products.Designer.cs">
+      <DependentUpon>Ongoing Products.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Product List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Product List.Designer.cs">
+      <DependentUpon>Product List.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sign up.cs">
+    <Compile Include="Forms\Purchased Products.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Sign up.Designer.cs">
+    <Compile Include="Forms\Purchased Products.Designer.cs">
+      <DependentUpon>Purchased Products.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sign up.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sign up.Designer.cs">
       <DependentUpon>Sign up.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Corr Jeff Inventory Manager.resx">
-      <DependentUpon>Corr Jeff Inventory Manager.cs</DependentUpon>
+    <Compile Include="Forms\Suppliers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Suppliers.Designer.cs">
+      <DependentUpon>Suppliers.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\Category.resx">
+      <DependentUpon>Category.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
+    <EmbeddedResource Include="Forms\Costumers.resx">
+      <DependentUpon>Costumers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Home.resx">
+    <EmbeddedResource Include="Forms\Home.resx">
       <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Ongoing Products.resx">
+      <DependentUpon>Ongoing Products.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Product List.resx">
+      <DependentUpon>Product List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Purchased Products.resx">
+      <DependentUpon>Purchased Products.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Suppliers.resx">
+      <DependentUpon>Suppliers.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
-    <EmbeddedResource Include="Sign up.resx">
+    <EmbeddedResource Include="Forms\Sign up.resx">
       <DependentUpon>Sign up.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
@@ -104,6 +144,11 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -178,6 +223,66 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\8674448_ic_fluent_building_bank_regular_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4213478_plus_add_button_action_more_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4213478_plus_add_button_action_more_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8666681_edit_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8666681_edit_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2638315_bin_delete_dust_erace_garbage_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login Account.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login Account %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login Account %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login Account %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\category.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\product.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\category %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\product %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\List of Supplier.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ongoing List.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Purchase Product List.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login Account %288%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\category1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Purchase Product List %281%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -118,17 +118,35 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="8675410_ic_fluent_sparkle_regular_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\8675410_ic_fluent_sparkle_regular_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="octicon--feed-person-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\octicon--feed-person-16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="8674850_ic_fluent_gesture_regular_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\8674850_ic_fluent_gesture_regular_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="fluent--person-20-regular" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fluent--person-20-regular.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="8674771_ic_fluent_database_regular_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\8674771_ic_fluent_database_regular_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="8675009_ic_fluent_image_add_regular_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8675009_ic_fluent_image_add_regular_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="category (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\category (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="output-onlinepngtools" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\output-onlinepngtools.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hugeicons--user-list" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hugeicons--user-list.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="product" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\product.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fluent-mdl2--product" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fluent-mdl2--product.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hugeicons--user-list1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hugeicons--user-list1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8674954_ic_fluent_glance_regular_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8674954_ic_fluent_glance_regular_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="8674266_ic_fluent_animal_cat_regular_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\8674266_ic_fluent_animal_cat_regular_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -136,52 +154,94 @@
   <data name="eos-icons--products-outlined" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\eos-icons--products-outlined.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Login Account (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Login Account (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8675410_ic_fluent_sparkle_regular_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8675410_ic_fluent_sparkle_regular_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="4213478_plus_add_button_action_more_icon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4213478_plus_add_button_action_more_icon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ongoing List" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ongoing List.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="icon-park-outline--message-one" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon-park-outline--message-one.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="solar--cart-large-linear" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\solar--cart-large-linear.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="vecteezy_colorful-data-visualization-displaying-trends-and-insights_49086365" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\vecteezy_colorful-data-visualization-displaying-trends-and-insights_49086365.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="proicons--folder-open" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\proicons--folder-open.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="man-working-laptop-information-searching-job-employment-concept" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\man-working-laptop-information-searching-job-employment-concept.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Login Account" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Login Account.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="category" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\category.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="List of Supplier" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\List of Supplier.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vecteezy_colorful-data-visualization-displaying-trends-and-insights_49086365" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vecteezy_colorful-data-visualization-displaying-trends-and-insights_49086365.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8674448_ic_fluent_building_bank_regular_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8674448_ic_fluent_building_bank_regular_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="product (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\product (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="proicons--folder-open" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\proicons--folder-open.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="8675401_ic_fluent_protocol_handler_regular_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\8675401_ic_fluent_protocol_handler_regular_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="8674954_ic_fluent_glance_regular_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\8674954_ic_fluent_glance_regular_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="solar--cart-large-linear" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\solar--cart-large-linear.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="businessman-paper-team-people-cooperation-executive" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\businessman-paper-team-people-cooperation-executive.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="8675009_ic_fluent_image_add_regular_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\8675009_ic_fluent_image_add_regular_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="hugeicons--user-list1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\hugeicons--user-list1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fluent-mdl2--product" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fluent-mdl2--product.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fluent--person-20-regular" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fluent--person-20-regular.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="8674897_ic_fluent_ios_arrow_ltr_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\8674897_ic_fluent_ios_arrow_ltr_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="hugeicons--user-list" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\hugeicons--user-list.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="8666681_edit_icon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8666681_edit_icon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="eos-icons--products-outlined1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\eos-icons--products-outlined1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="8674448_ic_fluent_building_bank_regular_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\8674448_ic_fluent_building_bank_regular_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="2638315_bin_delete_dust_erace_garbage_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2638315_bin_delete_dust_erace_garbage_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="category1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\category1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="businessman-paper-team-people-cooperation-executive" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\businessman-paper-team-people-cooperation-executive.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Purchase Product List" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Purchase Product List.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Login Account (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Login Account (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Login Account (8)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Login Account (8).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="4213478_plus_add_button_action_more_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4213478_plus_add_button_action_more_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8674897_ic_fluent_ios_arrow_ltr_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8674897_ic_fluent_ios_arrow_ltr_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8666681_edit_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8666681_edit_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8674850_ic_fluent_gesture_regular_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8674850_ic_fluent_gesture_regular_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8674771_ic_fluent_database_regular_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8674771_ic_fluent_database_regular_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Login Account (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Login Account (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Purchase Product List (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Purchase Product List (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
